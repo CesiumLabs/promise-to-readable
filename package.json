@@ -1,0 +1,29 @@
+{
+  "name": "promise-to-readable",
+  "version": "1.0.0",
+  "description": "Convert promise-to-readable to readable stream.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts"],
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/promise-to-readable.git"
+  },
+  "keywords": [
+    "promise",
+    "stream",
+    "readable"
+  ],
+  "author": "DevAndromeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/promise-to-readable/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/promise-to-readable#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.3"
+  }
+}
